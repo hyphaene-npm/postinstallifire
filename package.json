@@ -1,0 +1,17 @@
+{
+  "name": "postinstallifire",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+
+    "uuid": "^3.3.2"
+  },
+  "scripts": {
+
+  },
+
+
+  "lastBuild": "f33bfac9-25e0-4bcb-935d-24ca02f00bb6"
+}
